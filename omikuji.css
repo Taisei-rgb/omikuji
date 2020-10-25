@@ -1,12 +1,13 @@
+@charset "UTF-8";
 
-.omikuji {
+#omikuji {
   text-align: center;
   width: 294px;
   background-color: #EDA;
   border: 3px double #990;
 }
 
-.omikuji .main {
+#omikuji > h1 {
   color: #630;
   font-family: serif;
 }
